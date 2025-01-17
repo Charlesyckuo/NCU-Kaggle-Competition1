@@ -1,0 +1,2 @@
+target,best_score,iterations,learning_rate,depth,l2_leaf_reg,bagging_temperature,random_strength,grow_policy
+level,0.9952148795183464,900,0.1353257439953342,8,1.7684230781923387,0.12995396357773853,15.453285569099297,SymmetricTree

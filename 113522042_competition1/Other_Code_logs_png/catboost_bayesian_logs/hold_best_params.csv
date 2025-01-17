@@ -1,0 +1,2 @@
+target,best_score,iterations,learning_rate,depth,l2_leaf_reg,bagging_temperature,random_strength,grow_policy
+gender,0.99493634613878,891,0.27565817252370045,9,1.020858236295393,0.16414116960663735,18.601675243904147,SymmetricTree
